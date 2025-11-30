@@ -5,9 +5,8 @@
 ![Subject](https://img.shields.io/badge/Subject-Communication%20Engineering-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-> **Đồ án môn học:** Kỹ thuật Truyền tin (Communication Engineering)  
+> **Đồ án môn học:** Kỹ thuật Truyền Thông 
 > **Học kỳ:** 2024-2025  
-> **Giảng viên hướng dẫn:** [Tên Giảng Viên]
 
 ---
 
@@ -78,3 +77,4 @@ KTTT_ABC_SCF/
 │
 └── results/                    # KẾT QUẢ ĐẦU RA
     └── figures/                # Chứa ảnh đồ thị (.png)
+
