@@ -14,10 +14,6 @@
 1. [Giới thiệu đề tài](#-giới-thiệu-đề-tài)
 2. [Mô hình hệ thống & Thuật toán](#-mô-hình-hệ-thống--thuật-toán)
 3. [Cấu trúc dự án](#-cấu-trúc-dự-án)
-4. [Cài đặt môi trường](#-cài-đặt-môi-trường)
-5. [Hướng dẫn sử dụng](#-hướng-dẫn-sử-dụng)
-6. [Kết quả mô phỏng](#-kết-quả-mô-phỏng)
-7. [Tác giả](#-tác-giả)
 
 ---
 
@@ -77,4 +73,5 @@ KTTT_ABC_SCF/
 │
 └── results/                    # KẾT QUẢ ĐẦU RA
     └── figures/                # Chứa ảnh đồ thị (.png)
+
 
