@@ -1,0 +1,17 @@
+system:
+  M: 16             # Số lượng Access Points (AP)
+  K: 4              # Số lượng Users (UE)
+  N: 2              # Số lượng anten mỗi AP
+  bandwidth: 20e6   # Băng thông 20 MHz
+  noise_power_dbm: -94 # Công suất tạp âm nền (dBm)
+  p_max_dbm: 23     # Công suất phát tối đa mỗi AP (dBm)
+  area_size: 1000   # Kích thước vùng phủ (m)
+
+algorithm:
+  pop_size: 50      # Số lượng cá thể trong bầy ong (SN)
+  max_cycle: 100    # Số vòng lặp tối đa
+  limit: 20         # Giới hạn thử nghiệm trước khi biến thành ong trinh sát
+  psi: 1.5          # Hệ số dẫn hướng cho G-ABC [0, 1.5]
+
+simulation:
+  n_realizations: 5 # Số lần chạy lặp lại để lấy trung bình (Test thì để 5, chạy thật để 100)
